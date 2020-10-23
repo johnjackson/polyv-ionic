@@ -1,5 +1,7 @@
 {
   "name": "polyv",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
